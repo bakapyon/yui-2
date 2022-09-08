@@ -1,0 +1,36 @@
+2022/09/08-10:18:06.932 530 Reusing MANIFEST /mnt/c/Users/Guilherme/Desktop/iris/lib/session/yui_Login_QR/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/08-10:18:06.997 530 Recovering log #284
+2022/09/08-10:18:07.323 530 Reusing old log /mnt/c/Users/Guilherme/Desktop/iris/lib/session/yui_Login_QR/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000284.log 
+2022/09/08-10:19:37.557 543 Level-0 table #299: started
+2022/09/08-10:19:37.900 543 Level-0 table #299: 1891190 bytes OK
+2022/09/08-10:19:37.918 543 Delete type=0 #284
+2022/09/08-10:20:13.954 530 Compacting 1@0 + 0@1 files
+2022/09/08-10:20:14.174 530 Generated table #300@0: 16244 keys, 654597 bytes
+2022/09/08-10:20:14.175 530 Compacted 1@0 + 0@1 files => 654597 bytes
+2022/09/08-10:20:14.177 530 compacted to: files[ 0 1 10 0 0 0 0 ]
+2022/09/08-10:20:14.191 530 Delete type=2 #299
+2022/09/08-10:20:16.493 530 Compacting 1@1 + 10@2 files
+2022/09/08-10:20:17.248 530 Generated table #301@1: 40347 keys, 2272626 bytes
+2022/09/08-10:20:17.737 530 Generated table #302@1: 10655 keys, 2153678 bytes
+2022/09/08-10:20:18.455 530 Generated table #303@1: 2897 keys, 2156064 bytes
+2022/09/08-10:20:19.398 530 Generated table #304@1: 3445 keys, 2159392 bytes
+2022/09/08-10:20:20.096 530 Generated table #305@1: 5901 keys, 2154678 bytes
+2022/09/08-10:20:21.070 530 Generated table #306@1: 30476 keys, 2263375 bytes
+2022/09/08-10:20:22.437 530 Generated table #307@1: 20987 keys, 2205322 bytes
+2022/09/08-10:20:23.156 530 Generated table #308@1: 21784 keys, 2141630 bytes
+2022/09/08-10:20:24.016 530 Generated table #309@1: 111479 keys, 2268691 bytes
+2022/09/08-10:20:25.305 530 Generated table #310@1: 111648 keys, 2269225 bytes
+2022/09/08-10:20:25.559 530 Generated table #311@1: 13489 keys, 277876 bytes
+2022/09/08-10:20:25.560 530 Compacted 1@1 + 10@2 files => 22322557 bytes
+2022/09/08-10:20:25.741 530 compacted to: files[ 0 0 11 0 0 0 0 ]
+2022/09/08-10:20:25.772 530 Delete type=2 #287
+2022/09/08-10:20:25.773 530 Delete type=2 #288
+2022/09/08-10:20:25.773 530 Delete type=2 #289
+2022/09/08-10:20:25.774 530 Delete type=2 #290
+2022/09/08-10:20:25.775 530 Delete type=2 #291
+2022/09/08-10:20:25.775 530 Delete type=2 #292
+2022/09/08-10:20:25.777 530 Delete type=2 #293
+2022/09/08-10:20:25.779 530 Delete type=2 #294
+2022/09/08-10:20:25.780 530 Delete type=2 #295
+2022/09/08-10:20:25.781 530 Delete type=2 #296
+2022/09/08-10:20:25.781 530 Delete type=2 #300
